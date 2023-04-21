@@ -1,2 +1,4 @@
-# Portfolio
-Portfolio Digital Graphic Designs
+# CV ONLINE MADE IN REACT.JS
+
+STEIN RAMIREZ 
+2023
